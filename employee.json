@@ -9,7 +9,7 @@
   {
     "id": 2,
     "name": "Jane Smith",
-    "age": null,
+    "age": NULL,
     "join_date": "2023-02-20",
     "status": "inactive"
   },
